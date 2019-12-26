@@ -30,7 +30,7 @@
             echo "Login Gagal, Username dan Password Salah";
         } else if ($_GET['pesan'] == "logout") {
             echo "Berhasil Logout";
-        } else if ($_GET['pesan'] == "belum_login") {
+        } else if ($_GET['pesan'] == "blm") {
             echo "Silahkan Login Terlebih Dahulu";
         }
     }
