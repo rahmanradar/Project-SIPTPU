@@ -13,7 +13,7 @@ else{
 <body>
     <div class="head">
         <h1>Halaman Data Pelanggan</h1>
-        <h3>Pelanggan adalah pembeli setia di toko Pak Uban</h3>
+        <h3>Pelanggan adalah customer yang telah terdaftar di Sistem Toko Pak Uban</h3>
     </div>
     <div class="main">
         <a href="tambahpelanggan.php">Tambah Pelanggan</a>

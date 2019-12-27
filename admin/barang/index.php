@@ -7,9 +7,9 @@ if(!isset($_SESSION['username']))
 else{    
 ?>
 <html>
-
 <head>
-    <title>Halaman ~ Data Barang</title>
+    <title>Halaman | Data Barang</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
